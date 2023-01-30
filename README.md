@@ -7,4 +7,4 @@ apt install python
 pip install requests
 git clone https://github.com/ACE-UCHIHA/ACE-SMS-BOMBER
 cd ACE-SMS-BOMBER
-python ACE.py
+python ACE.py 
