@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&random=false&width=435&lines=Welcome+stranger" alt="Typing SVG" /></a>
+<a href="https://github.com/ACE-UCHIHA/ACE-SMS-BOMBER/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&random=false&width=435&lines=Welcome+stranger" alt="Typing SVG" /></a>
 </p>
 
 # ACE-SMS-BOMBER 🚀
